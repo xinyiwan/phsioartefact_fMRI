@@ -1,0 +1,723 @@
+﻿Event Summary;;;;;
+Index;Time;Type;Channel;Label;Date Created
+0;0.000 sec;Append;Global;Segment 1;Fri Jun 10 12:06:20 2022
+1;1.101 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+2;2.918 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+3;3.955 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+4;6.208 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+5;6.246 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+6;7.962 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+7;8.998 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+8;10.906 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+9;10.906 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+10;10.918 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+11;13.158 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+12;14.925 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+13;14.925 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+14;14.938 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+15;17.498 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+16;17.510 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+17;19.507 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+18;20.736 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+19;21.453 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+20;23.424 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+21;23.424 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+22;23.437 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+23;25.779 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+24;28.173 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+25;29.491 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+26;30.310 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+27;30.323 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+28;32.602 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+29;34.125 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+30;34.995 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+31;37.082 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+32;38.656 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+33;39.565 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+34;41.984 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+35;43.571 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+36;44.454 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+37;46.387 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+38;48.000 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+39;48.922 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+40;51.251 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+41;52.416 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+42;53.120 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+43;55.834 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+44;55.846 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+45;55.859 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+46;57.190 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+47;57.958 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+48;60.493 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+49;61.747 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+50;62.566 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+51;64.384 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+52;65.574 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+53;66.330 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+54;68.186 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+55;69.581 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+56;70.477 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+57;72.563 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+58;73.818 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+59;74.573 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+60;76.851 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+61;78.246 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+62;79.066 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+63;81.050 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+64;81.075 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+65;82.330 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+66;83.200 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+67;85.338 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+68;86.566 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+69;87.283 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+70;89.114 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+71;90.394 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+72;91.174 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+73;91.200 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+74;93.107 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+75;94.131 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+76;94.784 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+77;96.691 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+78;98.048 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+79;98.880 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+80;101.005 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+81;102.336 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+82;103.053 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+83;106.765 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+84;108.544 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+85;109.555 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+86;112.870 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+87;114.598 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+88;115.712 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+89;115.738 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+90;118.733 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+91;118.758 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+92;118.784 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+93;118.797 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+94;118.797 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+95;118.822 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+96;118.874 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+97;120.717 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+98;121.715 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+99;121.728 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+100;121.728 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+101;121.741 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+102;121.869 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+103;121.869 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+104;121.882 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+105;122.048 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+106;122.061 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+107;123.597 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+108;125.222 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+109;126.016 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+110;126.029 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+111;126.080 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+112;126.118 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+113;126.131 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+114;126.144 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+115;126.157 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+116;126.182 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+117;126.234 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+118;126.272 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+119;128.461 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+120;129.805 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+121;130.598 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+122;132.979 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+123;134.157 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+124;134.848 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+125;136.934 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+126;136.947 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+127;136.960 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+128;138.470 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+129;139.341 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+130;139.379 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+131;141.478 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+132;142.630 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+133;143.398 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+134;145.485 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+135;146.739 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+136;147.366 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+137;149.325 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+138;150.566 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+139;151.296 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+140;153.318 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+141;154.650 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+142;155.379 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+143;157.530 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+144;158.925 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+145;159.782 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+146;162.176 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+147;163.354 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+148;164.058 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+149;166.310 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+150;167.552 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+151;168.346 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+152;170.790 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+153;172.250 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+154;173.082 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+155;173.094 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+156;173.107 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+157;175.104 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+158;175.142 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+159;176.576 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+160;177.472 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+161;179.507 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+162;180.928 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+163;181.926 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+164;183.987 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+165;185.408 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+166;186.317 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+167;188.838 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+168;188.838 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+169;188.851 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+170;188.902 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+171;190.938 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+172;193.587 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+173;195.098 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+174;196.045 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+175;198.093 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+176;199.386 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+177;200.166 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+178;202.470 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+179;203.610 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+180;204.262 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+181;206.554 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+182;207.654 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+183;208.307 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+184;210.342 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+185;210.342 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+186;210.368 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+187;212.314 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+188;214.323 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+189;214.349 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+190;215.603 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+191;216.422 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+192;218.304 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+193;219.686 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+194;220.582 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+195;222.515 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+196;223.795 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+197;224.627 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+198;228.275 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+199;228.275 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+200;228.288 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+201;230.643 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+202;230.669 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+203;233.254 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+204;234.586 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+205;235.443 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+206;237.414 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+207;238.938 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+208;239.949 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+209;241.958 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+210;243.418 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+211;244.275 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+212;247.155 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+213;248.192 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+214;248.819 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+215;251.110 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+216;252.544 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+217;253.376 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+218;255.283 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+219;255.296 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+220;255.309 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+221;256.691 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+222;257.536 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+223;261.018 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+224;261.043 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+225;262.553 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+226;263.565 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+227;266.330 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+228;267.648 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+229;268.454 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+230;268.467 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+231;268.493 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+232;269.414 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+233;269.658 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+234;269.773 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+235;270.541 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+236;271.744 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+237;272.448 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+238;274.726 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+239;276.211 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+240;276.992 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+241;280.512 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+242;282.163 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+243;283.162 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+244;285.709 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+245;286.669 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+246;287.424 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+247;289.344 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+248;290.880 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+249;291.814 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+250;294.029 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+251;295.526 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+252;296.320 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+253;298.790 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+254;299.968 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+255;300.621 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+256;302.669 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+257;304.115 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+258;304.973 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+259;307.034 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+260;308.429 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+261;309.171 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:30 2022
+262;311.309 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+263;312.717 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+264;313.562 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+265;313.574 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+266;315.712 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+267;316.941 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+268;317.581 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+269;319.731 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+270;321.088 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+271;321.843 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+272;324.186 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+273;325.606 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+274;326.618 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+275;329.331 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+276;329.370 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+277;330.829 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+278;331.853 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+279;334.464 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+280;334.464 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+281;334.490 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+282;334.502 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+283;336.973 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+284;338.163 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+285;338.176 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+286;338.176 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+287;338.189 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+288;340.173 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+289;340.531 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+290;340.762 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+291;340.877 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+292;342.221 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+293;343.245 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+294;346.074 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+295;347.584 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+296;348.531 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+297;350.682 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+298;352.090 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+299;353.011 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+300;356.646 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+301;358.054 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+302;359.040 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+303;359.091 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+304;361.728 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+305;361.741 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+306;361.766 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+307;363.661 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+308;364.851 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+309;367.219 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+310;369.037 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+311;370.022 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+312;370.355 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+313;372.723 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+314;374.080 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+315;374.822 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+316;377.446 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+317;378.854 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+318;379.571 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+319;382.285 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+320;382.810 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+321;383.066 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+322;383.194 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+323;383.680 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+324;384.205 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+325;387.059 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+326;388.659 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+327;389.517 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+328;392.013 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+329;393.613 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+330;394.496 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+331;394.522 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+332;397.696 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+333;397.734 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+334;397.747 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+335;397.760 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+336;399.667 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+337;400.806 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+338;403.994 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+339;403.994 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+340;404.032 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+341;404.045 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+342;405.850 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+343;406.886 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+344;410.342 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+345;412.083 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+346;413.094 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+347;416.653 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+348;416.653 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+349;416.678 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+350;416.691 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+351;418.227 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+352;419.200 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+353;421.235 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+354;422.822 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+355;423.821 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+356;426.611 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+357;428.250 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+358;429.248 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+359;431.373 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+360;432.768 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+361;433.626 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+362;435.738 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+363;437.261 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+364;438.118 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+365;440.269 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+366;441.498 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+367;442.330 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+368;444.186 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+369;444.186 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+370;444.198 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+371;446.362 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+372;448.256 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+373;449.792 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+374;450.752 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+375;452.915 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+376;454.349 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+377;455.181 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+378;457.229 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+379;457.229 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+380;457.242 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+381;459.763 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+382;459.776 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+383;461.939 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+384;463.142 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+385;463.846 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+386;463.859 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+387;463.872 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+388;466.240 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+389;467.546 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+390;468.288 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+391;470.528 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+392;470.541 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+393;470.554 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+394;471.962 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+395;472.883 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+396;475.379 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+397;476.698 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+398;477.363 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+399;479.437 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+400;480.742 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+401;481.523 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+402;481.536 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+403;481.562 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+404;483.533 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+405;484.749 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+406;485.530 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+407;487.437 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+408;488.717 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+409;489.510 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+410;491.571 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+411;493.107 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+412;494.029 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+413;496.218 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+414;496.218 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+415;496.243 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+416;496.256 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+417;497.792 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+418;498.765 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+419;500.838 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+420;502.310 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+421;503.168 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+422;503.181 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+423;505.344 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+424;506.739 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+425;507.648 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+426;509.926 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+427;511.386 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+428;512.256 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+429;514.509 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+430;514.534 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+431;515.981 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+432;516.928 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+433;519.206 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+434;520.704 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+435;521.651 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+436;524.160 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+437;525.798 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+438;526.758 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+439;529.024 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+440;530.521 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+441;531.482 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+442;533.606 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+443;533.645 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+444;535.027 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+445;535.757 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+446;537.984 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+447;539.226 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+448;539.994 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+449;542.515 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+450;543.718 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+451;544.371 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+452;544.422 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+453;547.238 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+454;548.953 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+455;550.042 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+456;552.230 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+457;553.574 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+458;554.496 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+459;557.082 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+460;558.669 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+461;559.514 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+462;561.690 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+463;561.792 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+464;561.907 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+465;562.022 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+466;562.982 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+467;563.686 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+468;565.811 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+469;567.155 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+470;567.987 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+471;570.176 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+472;571.456 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+473;572.134 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+474;574.387 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+475;574.400 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+476;574.413 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+477;576.256 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+478;576.294 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+479;576.307 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+480;578.291 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+481;578.330 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+482;579.750 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+483;580.506 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+484;580.531 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+485;582.477 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+486;583.910 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+487;584.794 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+488;584.806 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+489;586.957 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+490;589.133 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+491;590.630 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+492;593.114 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+493;593.152 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+494;594.586 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+495;595.430 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+496;595.456 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+497;595.494 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+498;598.528 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+499;598.528 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+500;598.541 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+501;600.832 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+502;600.858 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+503;603.328 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+504;603.366 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+505;605.107 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+506;606.195 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+507;606.208 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+508;609.254 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+509;610.957 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+510;611.917 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+511;611.955 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+512;614.182 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+513;615.872 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+514;616.973 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+515;619.456 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+516;620.762 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+517;621.555 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+518;623.923 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+519;623.936 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+520;623.949 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+521;623.962 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+522;625.497 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+523;626.394 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+524;626.432 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+525;628.518 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+526;629.965 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+527;630.886 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+528;633.331 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+529;633.331 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+530;633.344 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+531;635.238 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+532;637.581 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+533;639.002 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+534;639.859 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+535;639.885 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+536;642.291 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+537;643.789 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+538;644.531 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+539;644.582 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+540;646.912 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+541;648.499 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+542;649.434 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+543;649.446 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+544;651.853 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+545;653.466 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+546;654.451 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+547;657.318 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+548;658.765 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+549;659.661 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+550;662.042 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+551;663.437 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+552;664.384 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+553;666.330 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+554;667.558 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+555;668.365 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+556;670.771 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+557;672.038 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+558;672.806 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+559;672.819 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+560;675.546 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+561;676.902 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+562;677.786 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+563;680.346 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+564;681.613 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+565;682.483 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+566;685.338 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+567;686.515 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+568;687.181 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+569;690.125 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+570;691.469 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+571;692.198 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+572;692.211 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+573;694.502 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+574;695.910 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+575;696.691 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+576;696.717 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+577;698.816 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+578;698.842 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+579;700.531 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+580;701.555 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+581;701.568 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+582;701.581 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+583;704.243 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+584;704.282 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+585;705.856 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+586;706.739 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+587;708.762 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+588;708.762 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+589;708.787 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+590;708.800 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+591;709.683 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+592;710.054 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+593;710.298 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+594;711.398 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+595;711.936 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+596;714.880 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+597;714.906 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+598;714.931 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+599;714.957 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+600;717.350 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+601;722.624 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+602;722.637 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+603;722.650 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+604;725.862 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+605;728.653 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+606;728.666 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+607;730.470 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+608;732.493 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+609;733.709 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+610;733.722 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+611;736.026 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+612;736.038 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+613;736.051 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+614;738.150 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+615;740.621 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+616;742.106 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+617;743.040 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+618;743.066 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+619;745.395 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+620;745.395 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+621;745.421 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+622;747.456 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+623;749.824 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+624;751.194 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+625;751.974 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+626;754.586 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+627;755.955 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+628;756.774 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+629;757.517 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+630;757.696 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+631;757.798 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+632;759.142 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+633;759.142 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+634;759.155 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+635;760.934 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+636;760.960 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+637;763.110 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+638;765.466 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+639;766.682 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+640;768.563 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+641;770.010 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+642;770.752 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+643;772.915 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+644;774.016 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+645;774.528 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+646;776.602 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+647;778.086 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+648;778.893 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+649;778.906 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+650;778.918 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+651;778.957 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+652;780.454 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+653;780.493 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+654;780.531 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+655;780.659 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+656;780.723 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+657;781.133 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+658;781.414 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+659;781.466 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+660;781.773 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+661;782.272 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+662;782.400 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+663;782.413 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+664;783.859 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+665;784.000 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+666;784.090 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+667;784.102 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+668;784.307 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+669;784.358 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+670;784.397 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+671;784.512 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+672;784.755 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+673;784.870 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+674;784.947 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+675;785.011 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+676;785.101 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+677;785.114 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+678;785.139 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+679;785.165 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+680;785.178 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+681;785.485 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+682;785.766 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+683;787.699 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+684;787.712 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+685;787.917 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+686;787.930 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+687;787.981 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+688;788.083 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+689;788.134 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+690;788.352 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+691;788.544 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+692;788.710 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+693;788.723 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+694;788.800 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+695;788.838 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+696;788.902 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+697;789.658 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+698;790.323 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+699;792.090 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+700;792.230 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+701;792.358 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+702;792.525 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+703;793.626 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+704;794.074 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+705;794.086 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+706;794.253 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+707;794.445 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+708;796.467 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+709;797.888 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+710;798.502 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+711;800.230 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+712;802.163 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+713;803.328 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+714;806.003 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+715;806.003 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+716;806.042 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+717;809.856 sec;Expire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:32 2022
+718;813.466 sec;Recovery;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;65;Wed Jun 15 13:07:32 2022
+719;814.170 sec;Inspire Start;CH3, RSP - TSD221-MRI - Respiration Transducer, MRI, DA100C;No label;Wed Jun 15 13:07:31 2022
+;;;;;
